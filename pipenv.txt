@@ -1,0 +1,12 @@
+pandas
+requests
+transformers
+transformers[torch]
+transformers[tf-cpu]
+transformers[flax]
+scipy
+ipykernel
+matplotlib
+nltk
+seaborn
+plotly
