@@ -1,7 +1,9 @@
 pandas
-requests
 ipykernel
+seaborn
 matplotlib
-nltk
 plotly
-tensorflow
+regex
+nltk
+gensim
+transformers
