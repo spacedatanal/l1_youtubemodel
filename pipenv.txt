@@ -7,3 +7,7 @@ regex
 nltk
 gensim
 transformers
+torch
+scipy
+pyarrow
+fastparquet
